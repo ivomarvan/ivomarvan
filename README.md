@@ -1,4 +1,6 @@
 ## Hi there 👋
+📚 Also take a look at my C/C++ libraries for working with the CAN bus on ESP32 using ESP-IDF, available in my dedicated GitHub organization: https://github.com/idf-can-bus
+.
 
 <!--
 **ivomarvan/ivomarvan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
