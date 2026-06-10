@@ -34,10 +34,10 @@ A shared Cursor IDE configuration library containing curated `.mdc` rules and ag
 
 <a href="https://github.com/ivomarvan/veilgit"><img src="https://github.com/ivomarvan/veilgit/raw/master/img/veilgit.1.600x450.png" height="120" align="right" alt="Veilgit" /></a>
 
-A Python tool that adds transparent file encryption to any git repository — selected files stay readable locally but are encrypted before they reach the remote.
+A Python tool that adds transparent file encryption to any git repository — selected files stay readable locally but are encrypted before they reach the remote repository.
 
-* **How it works:** Leverages git's native `clean`/`smudge` filter mechanism with [age](https://github.com/FiloSottile/age) encryption — you use git exactly as before, no workflow changes.
-* **Key Features:** Pattern-based file selection, multi-recipient collaboration, encrypted git history only (plaintext never leaves your machine), interactive setup wizard with multi-language support (EN, DE, FR, ES, CS, PL).
+* **How it works:** Leverages git's native `clean`/`smudge` filter mechanism using [age](https://github.com/FiloSottile/age) encryption — you use git exactly as before, requiring no workflow changes.
+* **Key Features:** Pattern-based file selection, multi-recipient collaboration, ensures only encrypted data is stored in the git history (plaintext never leaves your machine), and an interactive setup wizard with multi-language support (EN, DE, FR, ES, CS, PL).
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=flat-square&logo=git&logoColor=white)
