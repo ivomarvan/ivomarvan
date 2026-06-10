@@ -30,6 +30,24 @@ A shared Cursor IDE configuration library containing curated `.mdc` rules and ag
 
 ---
 
+### [Veilgit](https://github.com/ivomarvan/veilgit)
+
+<a href="https://github.com/ivomarvan/veilgit"><img src="https://github.com/ivomarvan/veilgit/raw/master/img/veilgit.1.600x450.png" height="120" align="right" alt="Veilgit" /></a>
+
+A Python tool that adds transparent file encryption to any git repository — selected files stay readable locally but are encrypted before they reach the remote.
+
+* **How it works:** Leverages git's native `clean`/`smudge` filter mechanism with [age](https://github.com/FiloSottile/age) encryption — you use git exactly as before, no workflow changes.
+* **Key Features:** Pattern-based file selection, multi-recipient collaboration, encrypted git history only (plaintext never leaves your machine), interactive setup wizard with multi-language support (EN, DE, FR, ES, CS, PL).
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=flat-square&logo=git&logoColor=white)
+![age](https://img.shields.io/badge/age-Encryption-green?style=flat-square)
+![Security](https://img.shields.io/badge/Transparent_Encryption-Privacy-blueviolet?style=flat-square)
+
+<br clear="right"/>
+
+---
+
 ### [Concurrent Harmony](https://github.com/ivomarvan/ConcurrentHarmony)
 
 <a href="https://github.com/ivomarvan/ConcurrentHarmony"><img src="https://github.com/ivomarvan/ConcurrentHarmony/raw/master/img/ConcurrentHarmony.jpg" height="120" align="right" alt="Concurrent Harmony" /></a>
