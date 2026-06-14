@@ -11,6 +11,27 @@ I enjoy working with communication protocols like CAN Bus, UART, I2C, and SPI, a
 
 Here is a curated list of projects I have designed and built:
 
+### [Agentflow-kit](https://github.com/ivomarvan/agentflow-kit)
+
+<a href="https://github.com/ivomarvan/agentflow-kit"><img src="https://raw.githubusercontent.com/ivomarvan/agentflow-kit/refs/heads/master/img/agentflow-kit_illustration_1.jpg" height="120" align="right" alt="Agentflow-kit" /></a>
+
+A lightweight, educational framework for building LLM agent workflows using a declarative state graph with deterministic Bulk Synchronous Parallel (BSP) execution. 
+
+This project demonstrates a deep understanding of complex AI orchestration by solving the notorious "black box" debugging problem common in modern agent frameworks. By enforcing strict immutability and predictable execution cycles, it provides a robust, testable, and transparent architecture.
+* **Deterministic Execution:** Uses a fixed Compute → Barrier → Apply cycle (BSP model) for predictable and reproducible agent traces.
+* **Immutable State:** State is a frozen dataclass with explicit patches and typed reducers, preventing parallel nodes from silently overwriting each other.
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
+![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=flat-square&logo=vue.js&logoColor=4FC08D)
+![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=flat-square&logo=fastapi&logoColor=white)
+![AI Agents](https://img.shields.io/badge/AI_Agents-LLM_Orchestration-blueviolet?style=flat-square)
+![State Machine](https://img.shields.io/badge/State_Machine-BSP_Execution-orange?style=flat-square)
+
+<br clear="right"/>
+
+---
+
 ### [Cursor Best Practices Template](https://github.com/ivomarvan/cursor-best-practices-template)
 
 <a href="https://github.com/ivomarvan/cursor-best-practices-template"><img src="https://github.com/ivomarvan/cursor-best-practices-template/raw/master/img/cursor-best-practices-template.jpg" height="120" align="right" alt="Cursor Best Practices Template" /></a>
@@ -77,6 +98,7 @@ A Python tool that adds transparent file encryption to any git repository — se
 
 ![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=flat-square&logo=javascript&logoColor=black)
+![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=flat-square&logo=vue.js&logoColor=4FC08D)
 ![Image Processing](https://img.shields.io/badge/Computer_Vision-Pose_Estimation-green?style=flat-square)
 ![Assistive Tech](https://img.shields.io/badge/Assistive_Tech-Accessibility-blueviolet?style=flat-square)
 
