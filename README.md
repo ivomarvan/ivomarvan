@@ -20,6 +20,7 @@ A lightweight, educational framework for building LLM agent workflows using a de
 This project demonstrates a deep understanding of complex AI orchestration by solving the notorious "black box" debugging problem common in modern agent frameworks. By enforcing strict immutability and predictable execution cycles, it provides a robust, testable, and transparent architecture.
 * **Deterministic Execution:** Uses a fixed Compute → Barrier → Apply cycle (BSP model) for predictable and reproducible agent traces.
 * **Immutable State:** State is a frozen dataclass with explicit patches and typed reducers, preventing parallel nodes from silently overwriting each other.
+* **Auto-generated GUI:** Automatically generates a web-based UI featuring live state graph visualization, runtime LLM parameter configuration, and real-time execution tracking.
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
