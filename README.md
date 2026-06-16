@@ -104,6 +104,7 @@ A Python tool that adds transparent file encryption to any git repository — se
 ![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=flat-square&logo=javascript&logoColor=black)
 ![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=flat-square&logo=vue.js&logoColor=4FC08D)
+![MediaPipe](https://img.shields.io/badge/MediaPipe-00A67E?style=flat-square)
 ![WebSocket](https://img.shields.io/badge/WebSocket-000000?style=flat-square)
 ![PeerJS](https://img.shields.io/badge/PeerJS-WebRTC-333333?style=flat-square&logo=webrtc&logoColor=white)
 ![Image Processing](https://img.shields.io/badge/Computer_Vision-Pose_Estimation-green?style=flat-square)
