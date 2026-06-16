@@ -13,7 +13,7 @@ Here is a curated list of projects I have designed and built:
 
 ### [Agentflow-kit](https://github.com/ivomarvan/agentflow-kit)
 
-<a href="https://github.com/ivomarvan/agentflow-kit"><img src="https://raw.githubusercontent.com/ivomarvan/agentflow-kit/refs/heads/master/img/agentflow-kit_illustration_1.jpg" height="120" align="right" alt="Agentflow-kit" /></a>
+<a href="https://github.com/ivomarvan/agentflow-kit"><img src="https://raw.githubusercontent.com/ivomarvan/agentflow-kit/refs/heads/master/img/agentflow-kit_illustration_1.jpg" width="215" height="120" align="right" alt="Agentflow-kit" /></a>
 
 A lightweight, educational framework for building LLM agent workflows using a declarative state graph with deterministic Bulk Synchronous Parallel (BSP) execution. 
 
@@ -26,6 +26,8 @@ This project demonstrates a deep understanding of complex AI orchestration by so
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
 ![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=flat-square&logo=vue.js&logoColor=4FC08D)
 ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=flat-square&logo=fastapi&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white)
 ![AI Agents](https://img.shields.io/badge/AI_Agents-LLM_Orchestration-blueviolet?style=flat-square)
 ![State Machine](https://img.shields.io/badge/State_Machine-BSP_Execution-orange?style=flat-square)
 
@@ -35,7 +37,7 @@ This project demonstrates a deep understanding of complex AI orchestration by so
 
 ### [Cursor Best Practices Template](https://github.com/ivomarvan/cursor-best-practices-template)
 
-<a href="https://github.com/ivomarvan/cursor-best-practices-template"><img src="https://github.com/ivomarvan/cursor-best-practices-template/raw/master/img/cursor-best-practices-template.jpg" height="120" align="right" alt="Cursor Best Practices Template" /></a>
+<a href="https://github.com/ivomarvan/cursor-best-practices-template"><img src="https://github.com/ivomarvan/cursor-best-practices-template/raw/master/img/cursor-best-practices-template.jpg" width="215" height="120" align="right" alt="Cursor Best Practices Template" /></a>
 
 A shared Cursor IDE configuration library containing curated `.mdc` rules and agent skills that enforce consistent coding standards and best practices across projects.
 
@@ -47,6 +49,7 @@ A shared Cursor IDE configuration library containing curated `.mdc` rules and ag
 ![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=flat-square&logo=git&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=flat-square&logo=vue.js&logoColor=4FC08D)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white)
 
 <br clear="right"/>
 
@@ -54,7 +57,7 @@ A shared Cursor IDE configuration library containing curated `.mdc` rules and ag
 
 ### [Veilgit](https://github.com/ivomarvan/veilgit)
 
-<a href="https://github.com/ivomarvan/veilgit"><img src="https://github.com/ivomarvan/veilgit/raw/master/img/veilgit.1.600x450.png" height="120" align="right" alt="Veilgit" /></a>
+<a href="https://github.com/ivomarvan/veilgit"><img src="https://github.com/ivomarvan/veilgit/raw/master/img/veilgit.1.600x450.png" width="215" height="120" align="right" alt="Veilgit" /></a>
 
 A Python tool that adds transparent file encryption to any git repository — selected files stay readable locally but are encrypted before they reach the remote repository.
 
@@ -63,6 +66,7 @@ A Python tool that adds transparent file encryption to any git repository — se
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=flat-square&logo=git&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white)
 ![age](https://img.shields.io/badge/age-Encryption-green?style=flat-square)
 ![Security](https://img.shields.io/badge/Transparent_Encryption-Privacy-blueviolet?style=flat-square)
 
@@ -72,7 +76,7 @@ A Python tool that adds transparent file encryption to any git repository — se
 
 ### [Concurrent Harmony](https://github.com/ivomarvan/ConcurrentHarmony)
 
-<a href="https://github.com/ivomarvan/ConcurrentHarmony"><img src="https://github.com/ivomarvan/ConcurrentHarmony/raw/master/img/ConcurrentHarmony.jpg" height="120" align="right" alt="Concurrent Harmony" /></a>
+<a href="https://github.com/ivomarvan/ConcurrentHarmony"><img src="https://github.com/ivomarvan/ConcurrentHarmony/raw/master/img/ConcurrentHarmony.jpg" width="215" height="120" align="right" alt="Concurrent Harmony" /></a>
 
 *Where Threads and Processes Sing Together.* A comprehensive Python framework for managing concurrency in applications involving multiple processes and threads.
 
@@ -90,7 +94,7 @@ A Python tool that adds transparent file encryption to any git repository — se
 
 ### [Astriot](https://github.com/ivomarvan/astriot)
 
-<a href="https://github.com/ivomarvan/astriot"><img src="img/astriot.jpg" height="120" align="right" alt="Astriot" /></a>
+<a href="https://github.com/ivomarvan/astriot"><img src="img/astriot.jpg" width="215" height="120" align="right" alt="Astriot" /></a>
 
 *Affordable image processing for assistive technologies.* A concept and library designed to extract facial and body pose data, providing text outputs via an API.
 
@@ -100,6 +104,8 @@ A Python tool that adds transparent file encryption to any git repository — se
 ![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=flat-square&logo=javascript&logoColor=black)
 ![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=flat-square&logo=vue.js&logoColor=4FC08D)
+![WebSocket](https://img.shields.io/badge/WebSocket-000000?style=flat-square)
+![PeerJS](https://img.shields.io/badge/PeerJS-WebRTC-333333?style=flat-square&logo=webrtc&logoColor=white)
 ![Image Processing](https://img.shields.io/badge/Computer_Vision-Pose_Estimation-green?style=flat-square)
 ![Assistive Tech](https://img.shields.io/badge/Assistive_Tech-Accessibility-blueviolet?style=flat-square)
 
@@ -109,7 +115,7 @@ A Python tool that adds transparent file encryption to any git repository — se
 
 ### [idf-can-bus (ESP32 + CAN Bus Solutions)](https://github.com/idf-can-bus)
 
-<a href="https://github.com/idf-can-bus"><img src="https://github.com/idf-can-bus/mcp25xxx-multi-idf-can/raw/master/doc/ESP32_MCP2515_CAN_steampunk400x400.png" height="120" align="right" alt="ESP32 CAN Bus Solutions" /></a>
+<a href="https://github.com/idf-can-bus"><img src="https://github.com/idf-can-bus/mcp25xxx-multi-idf-can/raw/master/doc/ESP32_MCP2515_CAN_steampunk400x400.png" width="215" height="120" align="right" alt="ESP32 CAN Bus Solutions" /></a>
 
 A dedicated GitHub organization containing a collection of modular, production-ready CAN libraries for ESP32 platforms using ESP-IDF.
 
@@ -123,6 +129,7 @@ A dedicated GitHub organization containing a collection of modular, production-r
 ![ESP32](https://img.shields.io/badge/ESP32-%23E7352C.svg?style=flat-square&logo=espressif&logoColor=white)
 ![ESP-IDF](https://img.shields.io/badge/ESP--IDF-Espressif-red?style=flat-square)
 ![CAN Bus](https://img.shields.io/badge/CAN_Bus-Automotive_/_Industrial-blue?style=flat-square)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white)
 ![FreeRTOS](https://img.shields.io/badge/FreeRTOS-Real--Time_OS-green?style=flat-square)
 
 <br clear="right"/>
